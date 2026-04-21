@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9b8151df-1a24-44e5-a6cb-bd7c1b483921",
+  "export_job_id": "9aa65bc1-f67a-4411-97d4-918e589fd598",
   "id_short": 446067,
-  "published_at": "2026-04-17T19:30:29Z",
+  "published_at": "2026-04-21T19:25:57Z",
   "repo_name": "all-restaurants-in-vancouver-washington-us-sample-446067",
   "sample_asset_name": "beamstation_446067_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/446067/beamstation_446067_restaurants-us-wa_SAMPLE_DIST.csv",
-  "sample_records": 59,
-  "sample_sha256": "9e9092c38ed23f8ce53bec5adc608b87fa57c9da3751ceb16ea6b59002bbc19f",
-  "sample_size_bytes": 223571,
-  "total_records": 593
+  "sample_records": 42,
+  "sample_sha256": "cd903742c5dc8e9d29e866ed76cbc4e26ede4374c46484a16758f502fba14c27",
+  "sample_size_bytes": 176312,
+  "total_records": 429
 }
