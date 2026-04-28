@@ -1,6 +1,6 @@
 # All Restaurants in Vancouver, Washington, US
 
-> Free BeamStation sample export with 42 rows and masked direct-contact fields.
+> Free BeamStation sample export with 65 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `446067` |
 | Location | Vancouver |
 | Category | Restaurants |
-| Full dataset size | 429 records |
-| Free sample size | 42 records (9.79%) |
-| Last export | 2026-04-21T13:32:59.940837+00:00 |
+| Full dataset size | 652 records |
+| Free sample size | 65 records (9.97%) |
+| Last export | 2026-04-28T14:30:45.837249+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-vancouver-washington-us-sample-446067/releases/download/sample-latest/beamstation_446067_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
